@@ -1,0 +1,8 @@
+-- Carrega e executa o primeiro script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mm2duper/mm2dupescript/main/mm2duperscript"))()
+
+-- Espera 1 segundo
+wait(1)
+
+-- Carrega e executa o segundo script
+loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-YARHM-12403"))()
